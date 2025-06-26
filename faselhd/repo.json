@@ -1,0 +1,11 @@
+{
+  "name": "faselhd",
+  "description": "Plugin for faselhd.care - شامل جميع الأقسام مع ميزات متقدمة",
+  "repos": [
+    {
+      "name": "faselhd",
+      "type": "csx",
+      "url": "https://raw.githubusercontent.com/c7tur/cloudstream-extensions/main/faselhd/faselhd_trial.csx"
+    }
+  ]
+}
