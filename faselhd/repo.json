@@ -1,0 +1,11 @@
+{
+  "name": "faselhd",
+  "description": "Plugin for Faselhd.cloud - Movies, Series, Anime",
+  "repos": [
+    {
+      "name": "faselhd",
+      "type": "csx",
+      "url": "https://raw.githubusercontent.com/c7tur/cloudstream-extensions/main/faselhd/faselhd_trial.csx"
+    }
+  ]
+}
